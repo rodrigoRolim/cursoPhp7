@@ -1,0 +1,9 @@
+{
+    "name": "rodrigo/composer",
+    "description": "aula de php 7",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+    	"monolog/monolog":"1.0.*"
+    }
+}
